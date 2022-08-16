@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: EKS-course-cluster-fargate
-  region: us-west-2
+  region: us-east-1
 
 fargateProfiles:
   - name: fargate-demo
